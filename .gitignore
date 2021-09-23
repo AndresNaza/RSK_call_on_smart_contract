@@ -1,0 +1,4 @@
+.env
+.minimum-gas-price-mainnet.json
+.minimum-gas-price-testnet.json
+/node_modules
