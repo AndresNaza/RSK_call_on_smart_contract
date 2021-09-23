@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/RSK_call_on_smart_contract/static/css/main.b100e6da.chunk.css",
+    "main.js": "/RSK_call_on_smart_contract/static/js/main.a8ac3875.chunk.js",
+    "main.js.map": "/RSK_call_on_smart_contract/static/js/main.a8ac3875.chunk.js.map",
+    "runtime-main.js": "/RSK_call_on_smart_contract/static/js/runtime-main.e7c8c7e4.js",
+    "runtime-main.js.map": "/RSK_call_on_smart_contract/static/js/runtime-main.e7c8c7e4.js.map",
+    "static/js/2.c29ed938.chunk.js": "/RSK_call_on_smart_contract/static/js/2.c29ed938.chunk.js",
+    "static/js/2.c29ed938.chunk.js.map": "/RSK_call_on_smart_contract/static/js/2.c29ed938.chunk.js.map",
+    "index.html": "/RSK_call_on_smart_contract/index.html",
+    "precache-manifest.df2e6f8b2bd54c86d0790121e2ecef32.js": "/RSK_call_on_smart_contract/precache-manifest.df2e6f8b2bd54c86d0790121e2ecef32.js",
+    "service-worker.js": "/RSK_call_on_smart_contract/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/RSK_call_on_smart_contract/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7c8c7e4.js",
+    "static/js/2.c29ed938.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.a8ac3875.chunk.js"
+  ]
+}
